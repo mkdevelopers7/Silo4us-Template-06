@@ -1,0 +1,12 @@
+_next/
+_vercel/
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+Thumbs.db
+start-server.bat
+start-server.ps1
+serve-powershell.ps1
